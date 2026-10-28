@@ -1,5 +1,5 @@
 // Cache do app para funcionar offline. Mude a versão a cada atualização.
-const CACHE = 'playlist-v1';
+const CACHE = 'playlist-v2';
 const ASSETS = ['./', './index.html', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
 
